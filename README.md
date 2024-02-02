@@ -1,4 +1,4 @@
-# Ambiora - TechFest Experience Redefined
+# Ambiora 
 
 Welcome to Ambiora, the official TechFest of SVKM's Narsee Monjee Institute of Management Studies (NMIMS) MPSTME, Shirpur Campus. Ambiora brings you an immersive experience with its key features, including a dynamic 3D Home page, Events showcasing technological brilliance, a captivating Gallery, and a Contact Us page with direct access to the Tech Heads.
 
